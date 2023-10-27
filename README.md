@@ -30,25 +30,25 @@ In summary, the Apriori algorithm helps businesses identify patterns in consumer
 ## Project roadmap
 Combining the Price Elasticity of Demand (PED) and the Apriori algorithm can be a powerful approach for businesses aiming to optimize pricing strategies based on consumer behavior. Here's how these concepts can be integrated:
 
-## 1. Data Collection:
+### 1. Data Collection:
 
 · Gather transaction data: Collect data on customer purchases, including items bought and their quantities, along with corresponding prices.
 
 · Capture price changes: Record variations in product prices over a specific period.
 
-## 2. Apriori Analysis:
+### 2. Apriori Analysis:
 
 · Use the Apriori algorithm to identify frequent itemsets: Discover patterns in customer purchases to find sets of items frequently bought together.
 
 · Analyze itemset frequencies: Understand which combinations of products are popular among consumers.
 
-## 3. Price Elasticity Calculation:
+### 3. Price Elasticity Calculation:
 
 · Select a specific product or group of related products identified through Apriori analysis.
 
 · Calculate the Price Elasticity of Demand for the selected product(s) using historical sales data and corresponding price changes:
 
-## 4. Integration and Decision-Making:
+### 4. Integration and Decision-Making:
 
 · Identify price-sensitive itemsets: Analyze the PED values for different product combinations to identify itemsets with elastic demand (PED > 1). These are sets of products where consumers are responsive to price changes.
 
