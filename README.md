@@ -2,6 +2,8 @@
 
 In the world of economics and business analysis, two key concepts come into play: the Apriori algorithm and Elasticity. These concepts help economists, businesses, and policymakers understand and analyze patterns in consumer behavior and market dynamics.
 
+## Concepts
+
 ### Apriori Algorithm:
 
 The Apriori algorithm is a fundamental tool in data mining and machine learning used to discover patterns in large datasets, especially in the context of market basket analysis. It works by identifying frequent itemsets in a dataset, where an itemset represents a collection of items that frequently co-occur in transactions.
